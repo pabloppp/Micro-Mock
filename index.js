@@ -1,5 +1,4 @@
 const express = require('express');
-const glob = require('glob');
 const path = require("path");
 const fs = require("fs");
 const ip = require("ip");
