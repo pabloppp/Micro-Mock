@@ -8,6 +8,8 @@ You can then plug those endpoints in your app (web client, android/ios app) in o
 that will be updated in real time each time you modify the json.
 
 ### Usage
+First of all you'll need to download all the dependencies using `yarn install` or `npm install` .
+
 You don't need to modify the code, just run `node .` from the console in the root directory, and you'll see a list of 
 available endpoints associated with each JSON appear, you can just copy the full url and use it in your app.
 
