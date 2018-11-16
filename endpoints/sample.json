@@ -1,0 +1,6 @@
+{
+  "delay": 100,
+  "response": {
+    "foo": "bar"
+  }
+}
