@@ -20,6 +20,8 @@ to easily change the server response and be able to just refresh your app and se
 
 All changes to the JSONs, and requests to the endpoints will be logged in the console to help you debug.
 
+![sample console output](console_sample.png)
+
 ### JSON format
 
 The json structure has to follow this schema
